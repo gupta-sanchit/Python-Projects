@@ -5,5 +5,5 @@ This apllication gives information about the current weather details such as ave
 It uses openweather map API, the API call returns a JSON file object which is processed to obtain various details.<br>
 Generate your own api key from: https://openweathermap.org/api
 
-## 2) Tweet By Python
+## 2) Tweet Using Python
 An application to post tweets using Python and its Twitter Wrapper
