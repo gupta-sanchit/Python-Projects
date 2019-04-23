@@ -39,7 +39,7 @@ class weather:
             print("Please enter a valid City\n")
 
         else:
-            APIKEY = '6a8d8afb1319f0da2b1332577f4889fa'
+            APIKEY = 'YOUR API KEY'
             url = 'https://api.openweathermap.org/data/2.5/weather?id='
             self.link = url + str(self.cityid) + '&appid=' + APIKEY
             #print(self.link)
